@@ -28,7 +28,8 @@ Each record in the dataset represents a Reddit post with associated metadata, co
 
 ```bibtex
 @InProceedings{huggingface:dataset,
-title = {Reddit Climate Comment},
-author = {Yicheng (Catherine) Wang},
-year = {2024}
+  title = {Reddit Climate Comment},
+  author = {Catherine Wang},
+  year = {2024},
+  url = {https://huggingface.co/datasets/cathw/reddit_climate_comment}
 }
